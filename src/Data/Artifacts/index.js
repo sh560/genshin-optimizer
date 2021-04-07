@@ -7,6 +7,7 @@ import BraveHeart from './BraveHeart/BraveHeart'
 import CrimsonWitchOfFlames from './CrimsonWitchOfFlames/CrimsonWitchOfFlames'
 import DefendersWill from './DefendersWill/DefendersWill'
 import Gambler from './Gambler/Gambler'
+import GlacierAndSnowfield from './GlacierAndSnowfield/GlacierAndSnowfield'
 import GladiatorsFinale from './GladiatorsFinale/GladiatorsFinale'
 import HeartOfDepth from './HeartOfDepth/HeartOfDepth'
 import Instructor from './Instructor/Instructor'
@@ -39,6 +40,7 @@ let artifacts = {
   CrimsonWitchOfFlames,
   DefendersWill,
   Gambler,
+  GlacierAndSnowfield,
   GladiatorsFinale,
   HeartOfDepth,
   Instructor,
